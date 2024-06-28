@@ -6,6 +6,7 @@ export default function Moment() {
   return (
     <div>
     <h1>{day.format("MM-DD-YYYY")}</h1>
+    <h1>hello</h1>
     </div>
   )
 }
